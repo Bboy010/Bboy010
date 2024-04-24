@@ -2,12 +2,12 @@
 
 ### 👨 About Me
 
-- A Software Engineer an PhD Student, Nangui Abrogoua University
+- A Software Engineer and PhD Student, Nangui Abrogoua University
 - interest in Bioinformatics, Genomics, and Computational biology.
 
 ### 😎 Currently working on
 - Metagenomic analysis
-- Bioinformatics for microorganism
+- Bioinformatics for microorganisms
 
 ### 🛠 Tech Stack
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=41b883)
