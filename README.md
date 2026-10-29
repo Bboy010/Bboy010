@@ -2,7 +2,7 @@
 
 ### 👨 About Me
 
-- A Software Engineer and PhD Student, Nangui Abrogoua University
+- A Software Engineer, Datascientist and ML Engineer - PhD Student, Nangui Abrogoua University
 - interest in Bioinformatics, Genomics, and Computational biology.
 
 ### 😎 Currently working on
